@@ -6,7 +6,7 @@ unless defined?(Sass::RAILS_LOADED)
                               :cache_location    => RAILS_ROOT + '/tmp/sass-cache',
                               :always_check      => RAILS_ENV != "production",
                               :full_exception    => RAILS_ENV != "production",
-                              :always_update     => RAILS_ENV != "production")
+                              :never_update      => RAILS_ENV == "production")
 
   # :stopdoc:
   module ActionController
