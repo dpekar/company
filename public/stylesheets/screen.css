@@ -691,33 +691,33 @@ body #page #header { display: inline; float: left; margin-right: 10px; width: 95
 /* line 97, ../../../../../../Library/Ruby/Gems/1.8/gems/chriseppstein-compass-0.6.13/frameworks/blueprint/stylesheets/blueprint/modules/_grid.sass */
 * html body #page #header { overflow-x: hidden; }
 /* line 19, ../../app/stylesheets/screen.sass */
-body #page #slogan { float: left; display: inline; width: 660px; margin: 0 0 20px 50px; border: 5px solid #ccc; padding: 10px; }
-/* line 26, ../../app/stylesheets/screen.sass */
+body #page #slogan { float: left; display: inline; width: 660px; margin: 0 0 20px 50px; padding: 10px; }
+/* line 25, ../../app/stylesheets/screen.sass */
 body #page #slogan h2 { text-align: center; }
-/* line 28, ../../app/stylesheets/screen.sass */
+/* line 27, ../../app/stylesheets/screen.sass */
 body #page #slogan h3 { margin: 10px 0; text-align: center; }
-/* line 31, ../../app/stylesheets/screen.sass */
+/* line 30, ../../app/stylesheets/screen.sass */
 body #page #slogan p { text-align: left; margin: 10px 0; }
-/* line 34, ../../app/stylesheets/screen.sass */
+/* line 33, ../../app/stylesheets/screen.sass */
 body #page #main { display: inline; float: left; margin-right: 10px; width: 870px; padding-left: 80px; }
 /* line 97, ../../../../../../Library/Ruby/Gems/1.8/gems/chriseppstein-compass-0.6.13/frameworks/blueprint/stylesheets/blueprint/modules/_grid.sass */
 * html body #page #main { overflow-x: hidden; }
-/* line 38, ../../app/stylesheets/screen.sass */
+/* line 37, ../../app/stylesheets/screen.sass */
 body #footer { border-top: 1px solid #ccc; background-color: #eee; }
-/* line 41, ../../app/stylesheets/screen.sass */
+/* line 40, ../../app/stylesheets/screen.sass */
 body #footer #footer_container { width: 950px; margin: 0 auto; overflow: hidden; display: inline-block; padding-top: 10px; }
 /* line 5, ../../../../../../Library/Ruby/Gems/1.8/gems/chriseppstein-compass-0.6.13/frameworks/compass/stylesheets/compass/utilities/general/_hacks.sass */
 body #footer #footer_container { display: block; }
-/* line 44, ../../app/stylesheets/screen.sass */
+/* line 43, ../../app/stylesheets/screen.sass */
 body #footer #footer_container p { text-align: center; }
 
-/* line 47, ../../app/stylesheets/screen.sass */
+/* line 46, ../../app/stylesheets/screen.sass */
 .underlined { border-bottom: 1px solid #ccc; }
 
-/* line 50, ../../app/stylesheets/screen.sass */
+/* line 49, ../../app/stylesheets/screen.sass */
 .bold { font-weight: bold; }
 
-/* line 54, ../../app/stylesheets/screen.sass */
-h2 a { font-weight: bold; text-decoration: none; border-bottom: 1px dashed #ccc; padding: 5px; }
-/* line 59, ../../app/stylesheets/screen.sass */
+/* line 53, ../../app/stylesheets/screen.sass */
+h2 a { font-weight: bold; text-decoration: none; padding: 5px; }
+/* line 57, ../../app/stylesheets/screen.sass */
 h2 a:hover { background-color: #eee; border-bottom: 1px dashed black; }

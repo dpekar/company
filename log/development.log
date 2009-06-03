@@ -1,0 +1,312 @@
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing MainController#index (for 127.0.0.1 at 2009-06-03 15:16:41) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 19ms (View: 17, DB: 0) | 200 OK [http://localhost/]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing MainController#index (for 127.0.0.1 at 2009-06-03 15:17:49) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://localhost/]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing MainController#about (for 127.0.0.1 at 2009-06-03 15:18:03) [GET]
+Rendering template within layouts/main
+Rendering main/about
+Completed in 20ms (View: 18, DB: 0) | 200 OK [http://localhost/about]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing MainController#index (for 127.0.0.1 at 2009-06-03 15:18:11) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing MainController#jobs (for 127.0.0.1 at 2009-06-03 15:18:14) [GET]
+Rendering template within layouts/main
+Rendering main/jobs
+Completed in 97ms (View: 95, DB: 0) | 200 OK [http://localhost/jobs]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing MainController#index (for 127.0.0.1 at 2009-06-03 15:18:31) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing MainController#about (for 127.0.0.1 at 2009-06-03 15:19:50) [GET]
+Rendering template within layouts/main
+Rendering main/about
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/about]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing MainController#index (for 127.0.0.1 at 2009-06-03 15:20:07) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing MainController#jobs (for 127.0.0.1 at 2009-06-03 15:20:10) [GET]
+Rendering template within layouts/main
+Rendering main/jobs
+Completed in 12ms (View: 10, DB: 0) | 200 OK [http://localhost/jobs]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing MainController#index (for 127.0.0.1 at 2009-06-03 15:20:47) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing MainController#jobs (for 127.0.0.1 at 2009-06-03 15:20:50) [GET]
+Rendering template within layouts/main
+Rendering main/jobs
+Completed in 12ms (View: 10, DB: 0) | 200 OK [http://localhost/jobs]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing MainController#index (for 127.0.0.1 at 2009-06-03 15:20:53) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing MainController#about (for 127.0.0.1 at 2009-06-03 15:20:57) [GET]
+Rendering template within layouts/main
+Rendering main/about
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/about]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing MainController#index (for 127.0.0.1 at 2009-06-03 15:50:36) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing MainController#index (for 127.0.0.1 at 2009-06-03 15:51:52) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing MainController#about (for 127.0.0.1 at 2009-06-03 15:51:55) [GET]
+Rendering template within layouts/main
+Rendering main/about
+Completed in 11ms (View: 9, DB: 0) | 200 OK [http://localhost/about]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing MainController#jobs (for 127.0.0.1 at 2009-06-03 15:51:57) [GET]
+Rendering template within layouts/main
+Rendering main/jobs
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/jobs]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing MainController#about (for 127.0.0.1 at 2009-06-03 15:52:35) [GET]
+Rendering template within layouts/main
+Rendering main/about
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/about]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing MainController#jobs (for 127.0.0.1 at 2009-06-03 15:52:37) [GET]
+Rendering template within layouts/main
+Rendering main/jobs
+Completed in 12ms (View: 10, DB: 0) | 200 OK [http://localhost/jobs]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing MainController#jobs (for 127.0.0.1 at 2009-06-03 15:52:39) [GET]
+Rendering template within layouts/main
+Rendering main/jobs
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/jobs]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing MainController#jobs (for 127.0.0.1 at 2009-06-03 15:52:41) [GET]
+Rendering template within layouts/main
+Rendering main/jobs
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/jobs]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing MainController#jobs (for 127.0.0.1 at 2009-06-03 15:52:49) [GET]
+Rendering template within layouts/main
+Rendering main/jobs
+Completed in 12ms (View: 10, DB: 0) | 200 OK [http://localhost/jobs]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing MainController#about (for 127.0.0.1 at 2009-06-03 15:52:52) [GET]
+Rendering template within layouts/main
+Rendering main/about
+Completed in 5ms (View: 2, DB: 0) | 200 OK [http://localhost/about]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing MainController#index (for 127.0.0.1 at 2009-06-03 15:52:55) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 5ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing MainController#about (for 127.0.0.1 at 2009-06-03 15:53:19) [GET]
+Rendering template within layouts/main
+Rendering main/about
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/about]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing MainController#index (for 127.0.0.1 at 2009-06-03 15:54:43) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing MainController#jobs (for 127.0.0.1 at 2009-06-03 15:54:45) [GET]
+Rendering template within layouts/main
+Rendering main/jobs
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/jobs]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing MainController#index (for 127.0.0.1 at 2009-06-03 15:55:25) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 103ms (View: 101, DB: 0) | 200 OK [http://localhost/]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing MainController#index (for 127.0.0.1 at 2009-06-03 15:55:38) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing MainController#index (for 127.0.0.1 at 2009-06-03 15:55:57) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing MainController#index (for 127.0.0.1 at 2009-06-03 15:55:59) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 5ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing MainController#index (for 127.0.0.1 at 2009-06-03 15:56:11) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://localhost/]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing MainController#index (for 127.0.0.1 at 2009-06-03 15:56:21) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing MainController#jobs (for 127.0.0.1 at 2009-06-03 15:56:33) [GET]
+Rendering template within layouts/main
+Rendering main/jobs
+Completed in 5ms (View: 2, DB: 0) | 200 OK [http://localhost/jobs]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing MainController#about (for 127.0.0.1 at 2009-06-03 15:56:35) [GET]
+Rendering template within layouts/main
+Rendering main/about
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/about]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing MainController#about (for 127.0.0.1 at 2009-06-03 15:56:35) [GET]
+Rendering template within layouts/main
+Rendering main/about
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/about]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing MainController#index (for 127.0.0.1 at 2009-06-03 15:56:42) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing MainController#index (for 127.0.0.1 at 2009-06-03 15:56:43) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing MainController#jobs (for 127.0.0.1 at 2009-06-03 15:56:44) [GET]
+Rendering template within layouts/main
+Rendering main/jobs
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/jobs]
