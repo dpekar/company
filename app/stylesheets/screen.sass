@@ -1,0 +1,27 @@
+@import blueprint.sass
+@import blueprint/modules/scaffolding.sass
+@import compass/reset.sass
+@import compass/layout.sass
+
++blueprint
++blueprint-scaffolding
++sticky-footer( 50px, "#page", "#root_footer", "#footer" )
+
+body
+  :margin 0
+  #page
+    +container
+    #header
+      +column(24)
+    #slogan
+      +column(24)
+    #main
+      +column(16)
+    #sidebar
+      +column(8,true)
+    #root_footer
+  #footer
+    :border-top 1px solid #ccc
+    :background-color #eee
+    #footer_container
+      +container

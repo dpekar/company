@@ -1,5 +1,28 @@
-= link_to image_tag("header_cropped.png"), root_url
-%center
-  = yield
+!!! XML
+!!!
+%html{:xmlns => "http://www.w3.org/1999/xhtml", "xml:lang" => "en", :lang => "en"}
+  %head
+    %meta{'http-equiv' => "content-type", :content => "text/html;charset=UTF-8"}
+    %title TWEET
+    = stylesheet_link_tag 'screen.css', :media => 'screen, projection'
+    = stylesheet_link_tag 'print.css', :media => 'print'
+    /[if IE]
+      = stylesheet_link_tag 'ie.css', :media => 'screen, projection'
+
+  %body
+    #page
+      #header
+        = link_to image_tag("header_cropped.png"), root_url
+      #slogan
+        = yield :slogan
+      #main
+        = yield
+          
+      #sidebar
+        = yield :sidebar
+      #root_footer
+    #footer
+      #footer_container
+        %p Contact us at jobs@animalapps.com.
+
   
-%p Contact us at jobs@animalapps.com.
