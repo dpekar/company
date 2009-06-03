@@ -1,1 +1,6 @@
+<<<<<<< HEAD:.gitignore
 log/development.log
+=======
+log/*.log
+config/database.yml
+>>>>>>> df084616980c9d0294c9bd49c90aecbf78d9d999:.gitignore
