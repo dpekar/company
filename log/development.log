@@ -773,3 +773,357 @@ Processing MainController#jobs (for 127.0.0.1 at 2009-06-03 15:32:33) [GET]
 Rendering template within layouts/main
 Rendering main/jobs
 Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/jobs]
+
+
+Processing MainController#jobs (for 127.0.0.1 at 2009-06-03 15:43:01) [GET]
+Rendering template within layouts/main
+Rendering main/jobs
+Completed in 86ms (View: 84, DB: 0) | 200 OK [http://localhost/jobs]
+
+
+Processing MainController#index (for 127.0.0.1 at 2009-06-03 15:43:08) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing MainController#index (for 127.0.0.1 at 2009-06-03 15:46:10) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing MainController#index (for 127.0.0.1 at 2009-06-03 15:47:10) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing MainController#index (for 127.0.0.1 at 2009-06-03 15:48:01) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing MainController#index (for 127.0.0.1 at 2009-06-03 15:48:10) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing MainController#index (for 127.0.0.1 at 2009-06-03 15:48:18) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing MainController#index (for 127.0.0.1 at 2009-06-03 15:49:28) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing MainController#index (for 127.0.0.1 at 2009-06-03 15:49:46) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 5ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing MainController#index (for 127.0.0.1 at 2009-06-03 15:50:07) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing MainController#index (for 127.0.0.1 at 2009-06-03 15:50:39) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing MainController#index (for 127.0.0.1 at 2009-06-03 15:50:47) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 12ms (View: 3, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing MainController#index (for 127.0.0.1 at 2009-06-03 15:51:18) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing MainController#index (for 127.0.0.1 at 2009-06-03 15:51:23) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing MainController#index (for 127.0.0.1 at 2009-06-03 15:51:39) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing MainController#index (for 127.0.0.1 at 2009-06-03 15:51:58) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing MainController#index (for 127.0.0.1 at 2009-06-03 15:52:11) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing MainController#index (for 127.0.0.1 at 2009-06-03 15:52:21) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing MainController#index (for 127.0.0.1 at 2009-06-03 15:53:00) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing MainController#index (for 127.0.0.1 at 2009-06-03 15:53:07) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing MainController#index (for 127.0.0.1 at 2009-06-03 15:53:12) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing MainController#index (for 127.0.0.1 at 2009-06-03 15:53:22) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing MainController#index (for 127.0.0.1 at 2009-06-03 15:53:35) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing MainController#about (for 127.0.0.1 at 2009-06-03 15:53:44) [GET]
+Rendering template within layouts/main
+Rendering main/about
+Completed in 6ms (View: 5, DB: 0) | 200 OK [http://localhost/about]
+
+
+Processing MainController#about (for 127.0.0.1 at 2009-06-03 15:54:55) [GET]
+Rendering template within layouts/main
+Rendering main/about
+ERROR: compiling _run_haml_app47views47layouts47main46haml RAISED compile error
+/Users/bobby/rails/dev/savvy_hiring_app/app/views/layouts/main.haml:28: syntax error, unexpected kENSURE, expecting kEND
+/Users/bobby/rails/dev/savvy_hiring_app/app/views/layouts/main.haml:30: syntax error, unexpected $end, expecting kEND
+Function body:           def _run_haml_app47views47layouts47main46haml(local_assigns)
+            old_output_buffer = output_buffer;;extend Haml::Helpers;_hamlout = @haml_buffer = Haml::Buffer.new(@haml_buffer, {:attr_wrapper=>"'", :preserve=>["textarea", "pre"], :format=>:xhtml, :autoclose=>["meta", "img", "link", "br", "hr", "input", "area", "param", "col", "base"], :ugly=>false});_erbout = _hamlout.buffer;__in_erb_template = true;;
+
+
+
+
+
+
+
+
+
+
+_hamlout.push_text("<?xml version='1.0' encoding='utf-8' ?>\n<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">\n<html lang='en' xml:lang='en' xmlns='http://www.w3.org/1999/xhtml'>\n  <head>\n    <meta content='text/html;charset=UTF-8' http-equiv='content-type' />\n    <title>Animal Apps</title>\n    #{_hamlout.adjust_tabs(2); haml_temp =  stylesheet_link_tag 'screen.css', :media => 'screen, projection'
+_hamlout.format_script_false_false_false_false_false_true_false((haml_very_temp = haml_temp; haml_temp = nil; haml_very_temp));}\n    #{haml_temp =  stylesheet_link_tag 'print.css', :media => 'print'
+_hamlout.format_script_false_false_false_false_false_true_false((haml_very_temp = haml_temp; haml_temp = nil; haml_very_temp));}\n    <!--[if IE]> \n      #{_hamlout.adjust_tabs(1); haml_temp =  stylesheet_link_tag 'ie.css', :media => 'screen, projection'
+_hamlout.format_script_false_false_false_false_false_true_false((haml_very_temp = haml_temp; haml_temp = nil; haml_very_temp));}\n    <![endif]-->\n  </head>\n  <body>\n    <div id='page'>\n      <div id='header'>\n        #{_hamlout.adjust_tabs(1); haml_temp =  link_to image_tag("header_masked.png"), root_url
+_hamlout.format_script_false_false_false_false_false_true_false((haml_very_temp = haml_temp; haml_temp = nil; haml_very_temp));}\n      </div>\n", -1, false); if :slogan;
+
+
+
+
+
+
+
+_hamlout.push_text("      <div id='slogan'>\n        #{_hamlout.adjust_tabs(1); haml_temp =  yield :slogan
+_hamlout.format_script_false_false_false_false_false_true_false((haml_very_temp = haml_temp; haml_temp = nil; haml_very_temp));}\n      </div>\n      <div id='main'>\n        #{haml_temp =  yield
+_hamlout.format_script_false_false_false_false_false_true_false((haml_very_temp = haml_temp; haml_temp = nil; haml_very_temp));}\n      </div>\n      <div id='sidebar'>\n        #{haml_temp =  yield :sidebar
+_hamlout.format_script_false_false_false_false_false_true_false((haml_very_temp = haml_temp; haml_temp = nil; haml_very_temp));}\n      </div>\n      <div id='root_footer'></div>\n    </div>\n    <div id='footer'>\n      <div id='footer_container'>\n        <p>Contact us at jobs@animalapps.com.</p>\n      </div>\n    </div>\n  </body>\n</html>\n", -4, false);@haml_buffer = @haml_buffer.upper;_erbout;
+          ensure
+            self.output_buffer = old_output_buffer
+          end
+Backtrace: /Users/bobby/rails/dev/savvy_hiring_app/app/views/layouts/main.haml:30:in `compile!'
+/opt/ruby-enterprise-1.8.6-20081205/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_view/renderable.rb:61:in `compile'
+/opt/ruby-enterprise-1.8.6-20081205/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_view/renderable.rb:28:in `render'
+/opt/ruby-enterprise-1.8.6-20081205/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_view/template.rb:194:in `render_template'
+/opt/ruby-enterprise-1.8.6-20081205/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_view/base.rb:260:in `render_without_haml'
+/opt/ruby-enterprise-1.8.6-20081205/lib/ruby/gems/1.8/gems/haml-2.1.0/rails/../lib/haml/helpers/action_view_mods.rb:14:in `render'
+/opt/ruby-enterprise-1.8.6-20081205/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_view/base.rb:347:in `_render_with_layout'
+/opt/ruby-enterprise-1.8.6-20081205/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_view/base.rb:257:in `render_without_haml'
+/opt/ruby-enterprise-1.8.6-20081205/lib/ruby/gems/1.8/gems/haml-2.1.0/rails/../lib/haml/helpers/action_view_mods.rb:14:in `render'
+/opt/ruby-enterprise-1.8.6-20081205/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/base.rb:1241:in `render_for_file'
+/opt/ruby-enterprise-1.8.6-20081205/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/base.rb:937:in `render_without_benchmark'
+/opt/ruby-enterprise-1.8.6-20081205/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/benchmarking.rb:51:in `render'
+/opt/ruby-enterprise-1.8.6-20081205/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/opt/ruby-enterprise-1.8.6-20081205/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/core_ext/benchmark.rb:10:in `realtime'
+/opt/ruby-enterprise-1.8.6-20081205/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/opt/ruby-enterprise-1.8.6-20081205/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/benchmarking.rb:51:in `render'
+/opt/ruby-enterprise-1.8.6-20081205/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/base.rb:1317:in `default_render'
+/opt/ruby-enterprise-1.8.6-20081205/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/base.rb:1329:in `perform_action_without_filters'
+/opt/ruby-enterprise-1.8.6-20081205/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/filters.rb:617:in `call_filters'
+/opt/ruby-enterprise-1.8.6-20081205/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/filters.rb:610:in `perform_action_without_benchmark'
+/opt/ruby-enterprise-1.8.6-20081205/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+/opt/ruby-enterprise-1.8.6-20081205/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/opt/ruby-enterprise-1.8.6-20081205/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/core_ext/benchmark.rb:10:in `realtime'
+/opt/ruby-enterprise-1.8.6-20081205/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/opt/ruby-enterprise-1.8.6-20081205/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+/opt/ruby-enterprise-1.8.6-20081205/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/rescue.rb:160:in `perform_action_without_flash'
+/opt/ruby-enterprise-1.8.6-20081205/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/flash.rb:141:in `perform_action'
+/opt/ruby-enterprise-1.8.6-20081205/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/base.rb:523:in `send'
+/opt/ruby-enterprise-1.8.6-20081205/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/base.rb:523:in `process_without_filters'
+/opt/ruby-enterprise-1.8.6-20081205/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/filters.rb:606:in `sass_old_process'
+/Users/bobby/rails/dev/savvy_hiring_app/vendor/plugins/haml/lib/sass/plugin/rails.rb:20:in `process'
+/opt/ruby-enterprise-1.8.6-20081205/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/base.rb:391:in `process'
+/opt/ruby-enterprise-1.8.6-20081205/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/base.rb:386:in `call'
+/opt/ruby-enterprise-1.8.6-20081205/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/routing/route_set.rb:433:in `call'
+/opt/ruby-enterprise-1.8.6-20081205/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/dispatcher.rb:88:in `dispatch'
+/opt/ruby-enterprise-1.8.6-20081205/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/dispatcher.rb:111:in `_call'
+/opt/ruby-enterprise-1.8.6-20081205/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/dispatcher.rb:82:in `initialize'
+/opt/ruby-enterprise-1.8.6-20081205/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/query_cache.rb:29:in `call'
+/opt/ruby-enterprise-1.8.6-20081205/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/query_cache.rb:29:in `call'
+/opt/ruby-enterprise-1.8.6-20081205/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/connection_adapters/abstract/query_cache.rb:34:in `cache'
+/opt/ruby-enterprise-1.8.6-20081205/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/query_cache.rb:9:in `cache'
+/opt/ruby-enterprise-1.8.6-20081205/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/query_cache.rb:28:in `call'
+/opt/ruby-enterprise-1.8.6-20081205/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/connection_adapters/abstract/connection_pool.rb:361:in `call'
+/opt/ruby-enterprise-1.8.6-20081205/lib/ruby/gems/1.8/gems/rack-1.0.0/lib/rack/head.rb:9:in `call'
+/opt/ruby-enterprise-1.8.6-20081205/lib/ruby/gems/1.8/gems/rack-1.0.0/lib/rack/methodoverride.rb:24:in `call'
+/opt/ruby-enterprise-1.8.6-20081205/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/params_parser.rb:15:in `call'
+/opt/ruby-enterprise-1.8.6-20081205/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/rewindable_input.rb:25:in `call'
+/opt/ruby-enterprise-1.8.6-20081205/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/session/cookie_store.rb:93:in `call'
+/opt/ruby-enterprise-1.8.6-20081205/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/reloader.rb:9:in `call'
+/opt/ruby-enterprise-1.8.6-20081205/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/failsafe.rb:11:in `call'
+/opt/ruby-enterprise-1.8.6-20081205/lib/ruby/gems/1.8/gems/rack-1.0.0/lib/rack/lock.rb:11:in `call'
+/opt/ruby-enterprise-1.8.6-20081205/lib/ruby/gems/1.8/gems/rack-1.0.0/lib/rack/lock.rb:11:in `synchronize'
+/opt/ruby-enterprise-1.8.6-20081205/lib/ruby/gems/1.8/gems/rack-1.0.0/lib/rack/lock.rb:11:in `call'
+/opt/ruby-enterprise-1.8.6-20081205/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/dispatcher.rb:106:in `call'
+/opt/ruby-enterprise-1.8.6-20081205/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/cgi_process.rb:44:in `dispatch_cgi'
+/opt/ruby-enterprise-1.8.6-20081205/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/dispatcher.rb:102:in `dispatch_cgi'
+/opt/ruby-enterprise-1.8.6-20081205/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/dispatcher.rb:28:in `dispatch'
+/opt/ruby-enterprise-1.8.6-20081205/lib/ruby/gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel/rails.rb:76:in `process'
+/opt/ruby-enterprise-1.8.6-20081205/lib/ruby/gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel/rails.rb:74:in `synchronize'
+/opt/ruby-enterprise-1.8.6-20081205/lib/ruby/gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel/rails.rb:74:in `process'
+/opt/ruby-enterprise-1.8.6-20081205/lib/ruby/gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel.rb:159:in `process_client'
+/opt/ruby-enterprise-1.8.6-20081205/lib/ruby/gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel.rb:158:in `each'
+/opt/ruby-enterprise-1.8.6-20081205/lib/ruby/gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel.rb:158:in `process_client'
+/opt/ruby-enterprise-1.8.6-20081205/lib/ruby/gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel.rb:285:in `run'
+/opt/ruby-enterprise-1.8.6-20081205/lib/ruby/gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel.rb:285:in `initialize'
+/opt/ruby-enterprise-1.8.6-20081205/lib/ruby/gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel.rb:285:in `new'
+/opt/ruby-enterprise-1.8.6-20081205/lib/ruby/gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel.rb:285:in `run'
+/opt/ruby-enterprise-1.8.6-20081205/lib/ruby/gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel.rb:268:in `initialize'
+/opt/ruby-enterprise-1.8.6-20081205/lib/ruby/gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel.rb:268:in `new'
+/opt/ruby-enterprise-1.8.6-20081205/lib/ruby/gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel.rb:268:in `run'
+/opt/ruby-enterprise-1.8.6-20081205/lib/ruby/gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel/configurator.rb:282:in `run'
+/opt/ruby-enterprise-1.8.6-20081205/lib/ruby/gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel/configurator.rb:281:in `each'
+/opt/ruby-enterprise-1.8.6-20081205/lib/ruby/gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel/configurator.rb:281:in `run'
+/opt/ruby-enterprise-1.8.6-20081205/lib/ruby/gems/1.8/gems/mongrel-1.1.5/bin/mongrel_rails:128:in `run'
+/opt/ruby-enterprise-1.8.6-20081205/lib/ruby/gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel/command.rb:212:in `run'
+/opt/ruby-enterprise-1.8.6-20081205/lib/ruby/gems/1.8/gems/mongrel-1.1.5/bin/mongrel_rails:281
+/opt/ruby-enterprise-1.8.6-20081205/bin/mongrel_rails:19:in `load'
+/opt/ruby-enterprise-1.8.6-20081205/bin/mongrel_rails:19
+
+ActionView::TemplateError (compile error
+/Users/bobby/rails/dev/savvy_hiring_app/app/views/layouts/main.haml:28: syntax error, unexpected kENSURE, expecting kEND
+/Users/bobby/rails/dev/savvy_hiring_app/app/views/layouts/main.haml:30: syntax error, unexpected $end, expecting kEND) on line #28 of app/views/layouts/main.haml:
+25:     #footer
+26:       #footer_container
+27:         %p Contact us at jobs@animalapps.com.
+28: 
+29:   
+
+    app/views/layouts/main.haml:30:in `compile!'
+    haml (2.1.0) rails/./lib/haml/helpers/action_view_mods.rb:14:in `render'
+    haml (2.1.0) rails/./lib/haml/helpers/action_view_mods.rb:14:in `render'
+
+Rendered rescues/_trace (59.8ms)
+Rendered rescues/_request_and_response (15.6ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing MainController#about (for 127.0.0.1 at 2009-06-03 15:55:02) [GET]
+Rendering template within layouts/main
+Rendering main/about
+Completed in 9ms (View: 8, DB: 0) | 200 OK [http://localhost/about]
+
+
+Processing MainController#about (for 127.0.0.1 at 2009-06-03 15:55:04) [GET]
+Rendering template within layouts/main
+Rendering main/about
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/about]
+
+
+Processing MainController#about (for 127.0.0.1 at 2009-06-03 15:55:06) [GET]
+Rendering template within layouts/main
+Rendering main/about
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/about]
+
+
+Processing MainController#about (for 127.0.0.1 at 2009-06-03 15:55:22) [GET]
+Rendering template within layouts/main
+Rendering main/about
+
+ActionView::TemplateError (undefined method `content_for_slogan?' for #<ActionView::Base:0x2cf09c0>) on line #16 of app/views/layouts/main.haml:
+13:     #page
+14:       #header
+15:         = link_to image_tag("header_masked.png"), root_url
+16:       - if content_for_slogan?
+17:         #slogan
+18:           = yield :slogan
+19:       #main
+
+    app/views/layouts/main.haml:16:in `_run_haml_app47views47layouts47main46haml'
+    haml (2.1.0) rails/./lib/haml/helpers/action_view_mods.rb:14:in `render'
+    haml (2.1.0) rails/./lib/haml/helpers/action_view_mods.rb:14:in `render'
+
+Rendered rescues/_trace (133.9ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing MainController#about (for 127.0.0.1 at 2009-06-03 15:55:52) [GET]
+Rendering template within layouts/main
+Rendering main/about
+Completed in 13ms (View: 12, DB: 0) | 200 OK [http://localhost/about]
+
+
+Processing MainController#about (for 127.0.0.1 at 2009-06-03 15:56:28) [GET]
+Rendering template within layouts/main
+Rendering main/about
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/about]
+
+
+Processing MainController#index (for 127.0.0.1 at 2009-06-03 15:56:32) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing MainController#index (for 127.0.0.1 at 2009-06-03 15:57:19) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing MainController#index (for 127.0.0.1 at 2009-06-03 15:57:43) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing MainController#index (for 127.0.0.1 at 2009-06-03 15:57:53) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/]

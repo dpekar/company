@@ -11,12 +11,28 @@ body
   :margin 0
   #page
     +container
+    :margin-bottom 20px
+    
     #header
       +column(24)
+      :margin-bottom 15px
     #slogan
-      +column(24)
+      :float left
+      :display inline
+      :width 660px
+      :margin 0 0 20px 120px
+      :border 5px solid #ccc
+      :padding 10px
+      h3
+        :margin 10px 0
+        :text-align center
+      p
+        :text-align left
+        :margin 10px 0
     #main
-      +column(16)
+      +column(13)
+      +prepend(2)
+      +colborder
     #sidebar
       +column(8,true)
     #root_footer
@@ -25,3 +41,6 @@ body
     :background-color #eee
     #footer_container
       +container
+      :padding-top 10px 
+      p
+        :text-align center
