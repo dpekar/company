@@ -5,14 +5,16 @@
 
 +blueprint
 +blueprint-scaffolding
-+sticky-footer( 50px, "#page", "#root_footer", "#footer" )
+//+sticky-footer( 50px, "#page", "#root_footer", "#footer" )
 
 body
-  :margin 0
+  :margin 10px
+  :background-color #BFC1C4
   #page
     +container
-    :margin-bottom 20px
-    
+    :margin-bottom 10px
+    :border 2px solid #9EA3AC
+    :background-color white
     #header
       +column(24)
       :margin-bottom 15px
@@ -32,15 +34,9 @@ body
     #main
       +column(22)
       +prepend(2)
-    #root_footer
   #footer
-    :border-top 1px solid #ccc
-    :background-color #eee
-    #footer_container
-      +container
-      :padding-top 10px 
-      p
-        :text-align center
+    p
+      :text-align center
         
 .underlined
   :border-bottom 1px solid #ccc
