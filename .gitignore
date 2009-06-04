@@ -1,2 +1,4 @@
+log/development.log
 log/*.log
 config/database.yml
+tmp/**/*
