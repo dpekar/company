@@ -406,3 +406,51 @@ Processing MainController#index (for 127.0.0.1 at 2009-06-03 16:15:48) [GET]
 Rendering template within layouts/main
 Rendering main/index
 Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing MainController#about (for 127.0.0.1 at 2009-06-04 10:19:13) [GET]
+Rendering template within layouts/main
+Rendering main/about
+Completed in 39ms (View: 35, DB: 0) | 200 OK [http://localhost/about]
+
+
+Processing MainController#about (for 127.0.0.1 at 2009-06-04 10:19:34) [GET]
+Rendering template within layouts/main
+Rendering main/about
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/about]
+
+
+Processing MainController#about (for 127.0.0.1 at 2009-06-04 10:20:23) [GET]
+Rendering template within layouts/main
+Rendering main/about
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/about]
+
+
+Processing MainController#index (for 127.0.0.1 at 2009-06-04 10:20:27) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing MainController#index (for 127.0.0.1 at 2009-06-04 10:21:00) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing MainController#jobs (for 127.0.0.1 at 2009-06-04 10:23:01) [GET]
+Rendering template within layouts/main
+Rendering main/jobs
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/jobs]
+
+
+Processing MainController#about (for 127.0.0.1 at 2009-06-04 10:23:09) [GET]
+Rendering template within layouts/main
+Rendering main/about
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/about]
+
+
+Processing MainController#index (for 127.0.0.1 at 2009-06-04 10:23:11) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/]
