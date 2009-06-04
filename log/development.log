@@ -454,3 +454,9 @@ Processing MainController#index (for 127.0.0.1 at 2009-06-04 10:23:11) [GET]
 Rendering template within layouts/main
 Rendering main/index
 Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing MainController#index (for 127.0.0.1 at 2009-06-04 14:35:45) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 36ms (View: 34, DB: 0) | 200 OK [http://localhost/]

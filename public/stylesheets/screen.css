@@ -695,12 +695,15 @@ body #page #main { display: inline; float: left; margin-right: 10px; width: 790p
 body #footer p { text-align: center; }
 
 /* line 43, ../../app/stylesheets/screen.sass */
-.underlined { border-bottom: 1px solid #ccc; }
+.centered { text-align: center; }
 
 /* line 46, ../../app/stylesheets/screen.sass */
+.underlined { border-bottom: 1px solid #ccc; }
+
+/* line 49, ../../app/stylesheets/screen.sass */
 .bold { font-weight: bold; }
 
-/* line 50, ../../app/stylesheets/screen.sass */
+/* line 53, ../../app/stylesheets/screen.sass */
 h2 a { font-weight: bold; text-decoration: none; padding: 5px; }
-/* line 54, ../../app/stylesheets/screen.sass */
+/* line 57, ../../app/stylesheets/screen.sass */
 h2 a:hover { background-color: #eee; border-bottom: 1px dashed black; }
