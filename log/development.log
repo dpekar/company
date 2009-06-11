@@ -278,3 +278,86 @@ Processing MainController#jobs (for 127.0.0.1 at 2009-06-04 17:06:46) [GET]
 Rendering template within layouts/main
 Rendering main/jobs
 Completed in 5ms (View: 2, DB: 0) | 200 OK [http://localhost/jobs]
+** [Hoptoad] Notifier 1.2.2 ready to catch errors
+
+
+Processing HoptoadVerificationController#index (for 0.0.0.0 at 2009-06-11 04:38:25) [GET]
+** [Hoptoad] Success: Net::HTTPCreated
+** [Hoptoad] Environment Info: [Ruby: 1.8.6] [Rails: 2.3.2] [RailsEnv: development]
+** [Hoptoad] Response from Hoptoad: 
+<?xml version="1.0" encoding="UTF-8"?>
+<notice>
+  <action nil="true"></action>
+  <controller nil="true"></controller>
+  <created-at type="datetime">2009-06-11T11:35:03Z</created-at>
+  <error-class>HoptoadTestingException</error-class>
+  <error-message>HoptoadTestingException: Testing hoptoad via "rake hoptoad:test". If you can see this, it works.</error-message>
+  <file>[RAILS_ROOT]/vendor/plugins/hoptoad_notifier/tasks/hoptoad_notifier_tasks.rake</file>
+  <group-id type="integer">456883</group-id>
+  <id type="integer">78470206</id>
+  <line-number type="integer">39</line-number>
+  <project-id type="integer">2660</project-id>
+  <rails-env nil="true"></rails-env>
+  <request-method>GET</request-method>
+  <request-url>http://test.host/</request-url>
+  <updated-at type="datetime">2009-06-11T11:35:03Z</updated-at>
+  <user-agent>Rails Testing</user-agent>
+</notice>
+Rendering /Users/dpekar/Apps/company/public/500.html (500 Internal Server Error)
+** [Hoptoad] Notifier 1.2.2 ready to catch errors
+  [4;36;1mSQL (0.4ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing MainController#index (for 127.0.0.1 at 2009-06-11 04:52:50) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 36ms (View: 34, DB: 1) | 200 OK [http://localhost/]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing MainController#about (for 127.0.0.1 at 2009-06-11 04:52:52) [GET]
+Rendering template within layouts/main
+Rendering main/about
+Completed in 35ms (View: 32, DB: 0) | 200 OK [http://localhost/about]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing MainController#jobs (for 127.0.0.1 at 2009-06-11 04:52:56) [GET]
+Rendering template within layouts/main
+Rendering main/jobs
+Completed in 12ms (View: 9, DB: 0) | 200 OK [http://localhost/jobs]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing MainController#jobs (for 127.0.0.1 at 2009-06-11 04:53:31) [GET]
+Rendering template within layouts/main
+Rendering main/jobs
+Completed in 11ms (View: 9, DB: 0) | 200 OK [http://localhost/jobs]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing MainController#jobs (for 127.0.0.1 at 2009-06-11 04:57:56) [GET]
+Rendering template within layouts/main
+Rendering main/jobs
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/jobs]
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing MainController#jobs (for 127.0.0.1 at 2009-06-11 04:58:28) [GET]
+Rendering template within layouts/main
+Rendering main/jobs
+Completed in 11ms (View: 9, DB: 0) | 200 OK [http://localhost/jobs]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing MainController#jobs (for 127.0.0.1 at 2009-06-11 04:59:02) [GET]
+Rendering template within layouts/main
+Rendering main/jobs
+Completed in 11ms (View: 9, DB: 0) | 200 OK [http://localhost/jobs]
