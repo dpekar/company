@@ -6,3 +6,10 @@ vendor/plugins/haml:
   revision: 8a846754117a94ca15161c6096d656d916931179
   branch: master
   remote: braid/vendor/plugins/haml
+hoptoad_notifier: 
+  squashed: true
+  url: git://github.com/thoughtbot/hoptoad_notifier.git
+  type: git
+  revision: 2a5f0e4216aad75171b10c2aa5adfd121543840c
+  branch: master
+  remote: braid/hoptoad-notifier
