@@ -1,4 +1,11 @@
 --- 
+vendor/plugins/hoptoad_notifier: 
+  squashed: true
+  url: git://github.com/thoughtbot/hoptoad_notifier.git
+  type: git
+  revision: 2a5f0e4216aad75171b10c2aa5adfd121543840c
+  branch: master
+  remote: braid/vendor/plugins/hoptoad-notifier
 vendor/plugins/haml: 
   squashed: true
   url: git://github.com/nex3/haml.git
