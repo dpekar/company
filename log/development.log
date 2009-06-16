@@ -369,3 +369,27 @@ Processing MainController#index (for 127.0.0.1 at 2009-06-11 05:18:03) [GET]
 Rendering template within layouts/main
 Rendering main/index
 Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing MainController#index (for 127.0.0.1 at 2009-06-11 13:17:48) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing MainController#index (for 127.0.0.1 at 2009-06-11 15:01:26) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing MainController#index (for 127.0.0.1 at 2009-06-11 16:03:47) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/]
